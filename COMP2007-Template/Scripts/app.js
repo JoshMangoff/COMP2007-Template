@@ -1,1 +1,1 @@
-﻿
+﻿/* Custom JavaScript */
