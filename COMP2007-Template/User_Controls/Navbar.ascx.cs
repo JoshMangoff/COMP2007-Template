@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 /**
  * @author: Josh Mangoff
  * @date: May 26 2016
- * @
+ * @version: 0.0.1 - added SetActivePage method
  */
 
 namespace COMP2007_Template
@@ -25,7 +25,8 @@ namespace COMP2007_Template
          * This method adds css class of "active" to lis items relating to current page
          * 
          * @private
-         * @
+         * @method SetActivePage
+         * @return {void}
          */
         protected void SetActivePage()
         {
