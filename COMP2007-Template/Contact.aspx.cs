@@ -13,5 +13,11 @@ namespace COMP2007_Template
         {
 
         }
+
+        protected void SendButton_Click(object sender, EventArgs e)
+        {
+            //placeholder for code that sends email
+            Response.Redirect("Default.aspx");
+        }
     }
 }
